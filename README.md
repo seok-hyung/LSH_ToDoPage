@@ -6,6 +6,8 @@ Next.js와 TypeScript를 사용하여 구현한 드래그 앤 드롭 기능을 �
 
 ```
 npm run dev
+or
+npm run build && npm run start
 ```
 
 ## 주요 기능
